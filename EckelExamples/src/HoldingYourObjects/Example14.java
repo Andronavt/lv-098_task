@@ -3,6 +3,7 @@
  */
 package HoldingYourObjects;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.ListIterator;
@@ -13,6 +14,7 @@ import java.util.ListIterator;
 Integers to the List by always inserting them in the middle of the List.  
 
  */
+
 public class Example14 {
 
 	static public void addMiddle(LinkedList<Integer> list, Integer a){

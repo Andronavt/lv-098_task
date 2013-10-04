@@ -6,7 +6,7 @@ package ErrorHandlingWithExceptions_11;
 
 /**
  * @author Богдан
- *
+ * 
  */
 public class Exercise2 {
 
@@ -15,17 +15,19 @@ public class Exercise2 {
      */
     public static void main(String[] args) {
 	try {
-	    Test2 obj;
-	    
+	    Test2 obj = null;
+	    obj.f();// null pointer
 	} catch (Exception e) {
-	    
+	    e.printStackTrace(System.err);
+
 	}
 
     }
 
 }
-class Test2{
-    void f(){
-	
+
+class Test2 {
+    void f() {
+
     }
 }

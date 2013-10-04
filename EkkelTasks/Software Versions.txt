@@ -1,0 +1,40 @@
+AIMP 3.00.976
+Audacity 1.3.14
+BurnAware 4.5
+CPU-Z 1.59
++Defraggler 2.09.391
+Download Master 5.12.4.1297
+DVDSmith Movie Backup 1.0.7
+FastStone Image Viewer 4.6
+FileZilla 3.5.3
+GIGATweaker 3.1.3.460
+-GIMP 2.6.11
+GPU-Z 0.58
++HWiNFO32 3.92.1510
+HWMonitor 1.18
+mp3DirectCut 2.15
++NetWorx 5.2.2
+NSIS 2.47 Dev
+Opera USB 11.61
+PotPlayer 1.5.31901
+Recuva 1.42.544
+Resource Hacker 3.6.0.92
+R&Q 1.1.2.1.2
+Skype 5.5.0.124
+SRWare Iron 16.0.950.0
+STDU Viewer 1.6.66
+TeamViewer 7.0.12541
+Thunderbird 10.0
+UltraISO 9.5.2.2836
+USDownloader 1.3.5.9
+uTorrent 3.1.26671
+VirtualDub 1.10.1
+XPTweaker 1.53.80
+=======================
+InstalledCodec 1.25
+Internet Maniac 1.2d
+Neutron 1.07
+PageDefrag 2.32
+PuTTY 0.60.3
+TrashReg 3.81.3
+Unlocker 1.9

@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb2a9f6-a63f-400b-a819-da124ee6446b" name="Default" comment="" />
+    <ignored path="Ekkel.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Exercise1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380107267340" ignored="false" />
+    <file path="/Exercise3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380566725989" ignored="false" />
+    <file path="/a.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380814390007" ignored="false" />
+    <file path="/sample.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380814096725" ignored="false" />
+    <file path="/a.groovy" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380814330273" ignored="false" />
+    <file path="/a.xml" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380814337600" ignored="false" />
+    <file path="/Exercise14.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821648023" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/StartEnd.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/Shapes.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/Sandwich.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/Immutable.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/Frog.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/ThreatAnalyzer.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/PrivateOverride.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/PolyConstructors.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/Groups.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/Finding.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/ReferenceCounting.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/TestRegularExpression.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/Transmogrify.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/Replacing.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/music/Instrument.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/ArrayListDisplay.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/music/Music2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/SplitDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/shape/Square.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/shape/Circle.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/shape/Triangle.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/polymorphism/music3/Music3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/JGrep.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/ArrayClassObj.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/strings/TheReplacements.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/Mugs.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/InitialValues.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/bangbean/BangBeanTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/ArraysOfPrimitives.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/ArrayNew.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$PROJECT_DIR$/src/jdbcTry/JdbcTry.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/OrderOfInitialization.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/Flower.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/Demotion.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/Overloading.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/Functional.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/LimitsOfInference.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/Generators.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/ExplicitTypeSpecification.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/ExplicitStatic.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$PROJECT_DIR$/src/operators/Excercise1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/StaticInitialization.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/SimplerPets.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/WatercolorSets.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/BasicGeneratorDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/PrimitiveGenericTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899950" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/PrimitiveOverloading.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/initialization/OverloadingOrder.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/TupleList.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/BankTeller.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/TupleTest2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/operators/Exercise8.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/everythingIsAnObject/Exercise16.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/CheckedList.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/DogsAndRobots.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/Apply.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/interfaces/Apply.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/controllingExecution/Exercise6.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/DynamicProxyMixin.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/InstantiateGenericType.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/LatentReflection.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/Fill2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/Fibonacci.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/TupleTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/Store.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/generics/coffee/CoffeeGenerator.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/InnerImplementation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/SweetShop.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/PetCount.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/RegisteredFactories.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/Person.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/reusingClasses/Exercise3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/Robot.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/InterfaceViolation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/ShowMethods.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/PetCount2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/NullRobot.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/reusingClasses/Exercise20.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/reusingClasses/Exercise6.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/FamilyVsExactType.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/reusingClasses/Exercise24.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/AnonymousImplementation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/HiddenImplementation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/reusingClasses/Exercise11.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/SimpleProxyDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/SelectingMethods.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/PetCount4.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/PetCount3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/innerClasses/Exercise14.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/toys/ToyTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/typeinfo/packageaccess/HiddenC.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/HelloDate.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/RoundingNumbers.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/StringOperators.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/MathOps.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/Literals.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$PROJECT_DIR$/src/innerClasses/Exercise25.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/CastingNumbers.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899951" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/ShortCircuit.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/LargeMappedFiles.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/Bool.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/Blip3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/OSExecuteDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/TernaryIfElse.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise11.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/Blips.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/MappedIO.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/URShift.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/GZIPcompress.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/PassObject.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/BitManipulation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/LockingMappedFiles.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/BufferToText.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/Assignment.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/interfaces/Exercise9.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/operators/AutoInc.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/Worm.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/Maps.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/interfaces/Exercise4.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/SortedMapDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/interfaces/Exercise8.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/RandomBounds.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/interfaces/Exercise16.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/DirectoryDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/DirList3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/UsingBuffers.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/SlowMap.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/interfaces/Exercise11.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/Lists.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/AvailableCharSets.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/CollectionDataGeneration.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/GetChannel.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/shape/Triangle.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/Endians.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/Utilities.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/ChannelCopy.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/Bits.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/shape/Circle.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/DirList2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/SimpleHashMap.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/shape/Square.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/CollectionDataTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/MyWorld.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/Logon.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/SpringDetector.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise16.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/FileLocking.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/ListSortSearch.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/CountedString.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise15.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/MapDataTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise6.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/GetData.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/IndividualTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/ZipCompress.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/ListPerformance.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise13.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/DirList.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/LinkedHashMapDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/PreferencesDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/ReadOnly.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise8.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/AssociativeArray.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/Stacks.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/ViewBuffers.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise17.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/io/TransferTo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/Enumerations.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899952" ignored="false" />
+    <file path="$PROJECT_DIR$/src/polymorphism/Exercise2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/InterruptableLongRunningTask.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Progress.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/MonitoredLongRunningCallable.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/SortedSetDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/BorderLayout1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/DequeTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Menus.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/List.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$PROJECT_DIR$/src/initializationCleanup/Exercise22.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/QueueBehavior.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/TextPane.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/ButtonGroups.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/containers/CollectionMethods.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/SineWave.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/Reflection.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/CheckBoxes.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/GridLayout1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/PostOffice.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/TicTacToe.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/EnumMaps.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/MessageBoxes.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/NotClasses.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/OverrideConstantSpecific.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/FileChooserTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/RoShamBo1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Button1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/TrafficLight.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/HTMLButton.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/RoShamBo5.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Popup.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/EnumClass.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/TrackEvent.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/CarWash.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Faces.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/ConstantSpecificMethod.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/BangBean2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/ComboBoxes.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/SecurityCategory.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/LookAndFeel.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Button2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/ShowAddListeners.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/OzWitch.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/TextArea.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/VendingMachine.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/TabbedPane1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/FlowLayout1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/TextFields.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/RadioButtons.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/EnumSets.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Buttons.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Borders.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/InterruptableLongRunningCallable.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Button2b.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/RoShamBo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/ColorBoxes.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/BeanDumper.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/RandomTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/SimpleMenus.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/Dialogs.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/menu/Course.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/gui/LongRunningTask.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/menu/Meal2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/enumerated/cartoons/EnumImplementation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/TurnOffChecking.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/ExceptionMethods.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/LoggingExceptions2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/AlwaysFinally.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/MultipleReturns.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899953" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/net/mindview/util/TaskManager.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/Switch.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/LoggingExceptions.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/ExtraFeatures.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/exceptions/DynamicFields.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/net/mindview/util/Directory.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/interfaces/Factories.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/interfaces/TestRandVals.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/net/mindview/util/Countries.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/interfaces/Games.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/interfaces/music4/Music4.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/interfaces/music5/Music5.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/interfaces/classprocessor/Apply.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/interfaces/interfaceprocessor/Apply.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/net/mindview/atunit/AtUnit.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitExample1.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/net/mindview/atunit/ClassNameFinder.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/StackLStringTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/net/mindview/atunit/AtUnitRemover.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitExample2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/HashSetTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/swt/Menus.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitExample3.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/swt/ColorBoxes.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/InterfaceExtractorProcessorFactory.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/swt/SineWave.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/InterfaceExtractorProcessor.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitExample4.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitComposition.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/swt/TabbedPane.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitExternalTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/swt/DisplayEnvironment.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitExample5.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/swt/DisplayProperties.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/Testable.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/xml/Person.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/xml/People.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/annotations/database/TableCreationProcessorFactory.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/access/ImportedMyClass.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/AtomicIntegerTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/ThreadVariations.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/access/ChocolateChip.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/MapComparisons.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/access/PrintTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Daemons.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Interrupting.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/access/LibTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/InterruptingIdiom.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/access/Dinner.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Restaurant.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/access/ChocolateChip2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/MultiLock.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Joining.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/GreenhouseScheduler.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/TestArrayGeneration.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Tester.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/Reverse.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/DaemonFromFactory.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/GeneratorsTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/CallableDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899954" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/ContainerComparison.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/ExchangerDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/DelayQueueDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/ComparingArrays.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/ComparatorTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/ArrayOptions.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/ThreadLocalVariableHolder.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/RandomGeneratorsTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/AlphabeticSearch.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/TestGenerated.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/HorseRace.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Philosopher.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/ArraySearching.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/CarBuilder.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/StringSorting.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/ToastOMatic.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Pool.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/CompType.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/CopyingArrays.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/FastSimulation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/PrimitiveConversionDemonstration.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/BankTellerSimulation.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/ListComparisons.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/arrays/FillingArrays.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/ReaderWriterList.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/SyncObject.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/control/LabeledWhile.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/NIOInterruption.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/control/BreakAndContinue.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/control/VowelsAndConsonants.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/control/LabeledFor.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/OrnamentalGarden.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/CountDownLatchDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/control/ForEachInt.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/control/IfElse2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/TestBlockingQueues.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/control/IfElse.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/PipedIO.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/UniqueWords.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/NotifyVsNotifyAll.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/SynchronizationComparisons.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/ActiveObjectDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/MapOfList.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/ContainerMethods.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/SemaphoreDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/CloseResource.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/UniqueWordsAlphabetic.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/InterfaceVsIterator.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/PriorityBlockingQueueDemo.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/PrintingContainers.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/CriticalSection.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/ListIteration.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/SimpleDaemons.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/CrossContainerIteration.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/ListFeatures.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/Interrupting2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/StackCollision.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/DaemonsDontRunFinally.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/waxomatic/WaxOMatic.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/waxomatic2/WaxOMatic2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/concurrency/restaurant2/RestaurantWithQueues.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/Games.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/NonCollectionSequence.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/CollectionSequence.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/Callbacks.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/SetOperations.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/StackTest.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/GreenhouseControls.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/LinkedListFeatures.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/BigEgg.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899955" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/PetMap.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/holding/SimpleIteration.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/LocalInnerClass.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/Beetle.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/Detergent.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/Cartoon.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/CADSystem.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/Orc.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/FinalData.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/AnonymousConstructor.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/Factories.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/Hide.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/PlaceSetting.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/GreenhouseController.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/FinalOverridingIllusion.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/innerclasses/BigEgg2.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/Chess.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <file path="$USER_HOME$/Desktop/TIJ4-code/reusing/Bath.java" changelist="7bb2a9f6-a63f-400b-a819-da124ee6446b" time="1380821899956" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Ekkel" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Exercise3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="19" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise14.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="17" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="13" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/accessControl/Exercise1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="org.eclipse.jdt.ui.prefs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.jdt.ui.prefs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="org.eclipse.jdt.core.prefs" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/EverythingIsAnObject/Exercise1.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/Exercise3.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/Exercise14.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/Exercise1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1518" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="holdingYourObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="holdingYourObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise1.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accessControl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ekkel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb2a9f6-a63f-400b-a819-da124ee6446b" name="Default" comment="" />
+      <created>1380107177954</created>
+      <updated>1380107177954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1518" height="916" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15934066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="19" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="17" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="19" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="17" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Exercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/accessControl/Exercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.jdt.ui.prefs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Ekkel</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

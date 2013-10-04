@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author orecto
+ *
+ */
+package operators;

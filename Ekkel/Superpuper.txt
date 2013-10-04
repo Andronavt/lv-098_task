@@ -1,0 +1,6 @@
+The ability to map objects to other objects can be an immensely powerful way to solve 
+programming problems. For example, consider a program to examine the randomness of 
+Java’s Random class. Ideally, Random would produce a perfect distribution of numbers, 
+but to test this you need to generate many random numbers and count the ones that fall in 
+the various ranges. A Map easily solves the problem; in this case, the key is the number 
+produced by Random, and the value is the number of times that number appears: 

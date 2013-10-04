@@ -8,7 +8,7 @@ package ErrorHandlingWithExceptions_11;
 
 /**
  * @author Богдан
- *
+ * 
  */
 public class Exercise1 {
 
@@ -20,7 +20,7 @@ public class Exercise1 {
 	    throw new Exception("Error!!!");
 	} catch (Exception e) {
 	    e.printStackTrace(System.err);
-	}finally{
+	} finally {
 	    System.out.println("Program works");
 	}
 

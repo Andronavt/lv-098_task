@@ -14,7 +14,7 @@ class BaseA {
     }
 }
 
-class DerivedB extends A {
+class DerivedB extends A25 {
     DerivedB() throws ConstructorException {
 	super();
     }

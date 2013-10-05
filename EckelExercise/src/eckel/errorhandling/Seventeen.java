@@ -90,7 +90,7 @@ class Frog extends Amphibian {
     }
 
     protected void dispose() {
-	System.out.println("Frog17 dispose");
+	System.out.println("Frog dispose");
 	t.dispose();
 	p.dispose();
 	super.dispose();

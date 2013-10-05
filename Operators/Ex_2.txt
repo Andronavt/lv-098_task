@@ -1,0 +1,30 @@
+//* Create a class containing a float and use it to demonstrate aliasing
+package Operators;
+
+/**
+ * @author nazarko
+ * 
+ */
+public class Ex_2 {
+	public static void main(String[] args) {
+		System.out.println("Operators / Ex_2");
+
+		Test t1 = new Test();
+		Test t2 = new Test();
+		
+		t1.f = 0.01f;
+		t2.f = 100f;
+		System.out.println("t1.f = " + t1.f);
+		System.out.println("t2.f = " + t2.f);
+		t1 = t2;
+		System.out.println("t1.f = " + t1.f);
+		System.out.println("t2.f = " + t2.f);
+		t1.f = 1f;
+		System.out.println("t1.f = " + t1.f);
+		System.out.println("t2.f = " + t2.f);
+	}
+}
+
+class Test {
+	float f;
+}

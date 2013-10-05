@@ -1,0 +1,29 @@
+package Operators;
+
+import java.util.Random;
+
+// Write a program that simulates coin-flipping
+
+/**
+ * @author nazarko
+ * 
+ */
+public class Ex_7 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Operators / Ex_7");
+
+		Random rand = new Random();
+		int r = rand.nextInt();
+		if (r % 2 == 0) {
+			System.out.println("1");
+		} else {
+			System.out.println("2");
+		}
+	}
+
+}

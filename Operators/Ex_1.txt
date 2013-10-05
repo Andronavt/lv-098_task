@@ -1,0 +1,21 @@
+package Operators;
+//Write a program that uses the "short" and long form of print statement
+
+/**
+ * @author nazarko
+ *
+ */
+public class Ex_1 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Operators / Ex_1");
+		System.out.println("short"); // все одно автоматично юзаю повну форму, бо набита рука )
+		System.out.println("long");
+		
+	}
+
+}

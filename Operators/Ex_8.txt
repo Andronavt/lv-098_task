@@ -1,0 +1,27 @@
+package Operators;
+
+//Show that hex and octal notations work with long values. Use 
+//Long.toBinaryString( ) to display the results. 
+
+/**
+ * @author nazarko
+ * 
+ */
+public class Ex_8 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Operators / Ex_8");
+
+		long l1 = 0xfff;
+		long l2 = 07777;
+
+		System.out.println("long l1 in hexadecimal = " + Long.toBinaryString(l1));
+		System.out.println("long l2 in octal = " + Long.toBinaryString(l2));
+
+	}
+
+}

@@ -1,0 +1,31 @@
+// Create a class containing a float and use it to demonstrate aliasing during
+// method calls
+package Operators;
+
+/**
+ * @author nazarko
+ *
+ */
+class Flo {
+	float a;
+}
+public class Ex_3 {
+	static void f(Flo a) {
+		a.a = 1.23f;
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Operators / Ex_3");
+		Flo b = new Flo();
+		
+		b.a = 12.34f;
+		System.out.println("b.a = " + b.a);
+		f(b);	
+		System.out.println("b.a = " + b.a);
+	}
+
+}

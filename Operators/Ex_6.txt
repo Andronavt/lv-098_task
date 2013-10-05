@@ -1,0 +1,72 @@
+//package Operators;
+////Following Exercise 5, create a new Dog reference and assign it to spot’s 
+////object. Test for comparison using == and equals( ) for all references. 
+//
+///**
+// * @author nazarko
+// *
+// */
+//public class Ex_6 {
+//	class Dog {
+//	String name;
+//	String says;
+//
+//	void setName(String name) {
+//		this.name = name;
+//	}
+//
+//	void setSays(String says) {
+//		this.says = says;
+//	}
+//
+//	void showName() {
+//		System.out.println(name);
+//	}
+//
+//	void say() {
+//		System.out.println(says);
+//	}
+//}
+//	/**
+//	 * @param args
+//	 */
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//		System.out.println("Operators / Ex_6");
+//		
+//		Dog dog_1 = new Dog();
+//		dog_1.setName("Spot");
+//		dog_1.setSays("Ruff!");
+//		Dog dog_2 = new Dog();
+//		dog_2.setName("Scruffy");
+//		dog_2.setSays("Wurf!");
+//		
+//		dog_1.showName();
+//		dog_1.say();
+//		dog_2.showName(); 
+//		dog_2.say();
+//		
+//		Dog dog_3 = new Dog();
+//		dog_3.setName("Butch");
+//		dog_3.setSays("Hello!");
+//		dog_3.showName();
+//		dog_3.say();
+//		
+//		System.out.println("dog_1 == dog_3 : " + (dog_1 == dog_3));
+//		System.out.println("dog_1.equals(dog_3) : " + dog_1.equals(dog_3));
+//		System.out.println("dog_3.equals(dog_1) : " + dog_3.equals(dog_1));
+//		System.out.println("dog_1 = dog_3 ?");
+//		dog_1 = dog_3;
+//		System.out.println("(dog_1 == dog_3) : " + (dog_1 == dog_3));
+//		System.out.println("dog_1.equals(dog_3) : " + dog_1.equals(dog_3));
+//		System.out.println("dog_3.equals(dog_1) : " + dog_3.equals(dog_1));
+//		System.out.println("dog_1 : ");
+//		dog_1.showName();
+//		dog_1.say();
+//		System.out.println("dog_3 : ");
+//		dog_3.showName();
+//		dog_3.say();
+//	}
+//
+//
+//}

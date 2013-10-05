@@ -1,0 +1,31 @@
+package Operators;
+//Display the largest and smallest numbers for both float and double 
+//exponential notation.
+/**
+ * @author nazarko
+ *
+ */
+public class Ex_9 {
+	
+		
+	
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Operators / Ex_9");
+		
+		double double_max = java.lang.Double.MAX_VALUE;
+		double double_min = java.lang.Double.MIN_VALUE; 
+		float float_max = java.lang.Float.MAX_VALUE;
+		float float_min = java.lang.Float.MIN_VALUE; 
+		
+		System.out.println("double_max = " + double_max);
+		System.out.println("double_min = " + double_min);
+		System.out.println("float_max = " + float_max);
+		System.out.println("float_min = " + float_min);	
+	}
+
+}
+

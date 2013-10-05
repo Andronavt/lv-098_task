@@ -1,0 +1,32 @@
+package Operators;
+
+// Write a program that calculates velocity using a constant distance and a constant time.
+class Calc {
+	 static double speed(double d, double t) {
+		if (t == 0) {
+			return 0;
+		} else {
+			return d / t;
+		}
+	}
+}
+
+public class Ex_4 {
+	/**
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Operators / Ex_4");
+
+		double d = 100;
+		double t = 5;
+
+		System.out.println("distance = " + d);
+		System.out.println("time = " + t);
+		double s = Calc.speed(d, t);
+		System.out.println("speed = " + s);
+	}
+
+}

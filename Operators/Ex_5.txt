@@ -1,0 +1,48 @@
+//package Operators;
+//
+////Create a class called Dog containing two Strings: name and says. In 
+////main( ), create two dog objects with names “spot” (who says, “Ruff!”) and “scruffy” (who 
+////says, “Wurf!”). Then display their names and what they say.
+///**
+// * @author nazarko
+// * 
+// */
+//public class Ex_5 {
+//
+//	class Dog {
+//		String name;
+//		String says;
+//
+//		void setName(String name) {
+//			this.name = name;
+//		}
+//
+//		void setSays(String says) {
+//			this.says = says;
+//		}
+//
+//		void showName() {
+//			System.out.println(name);
+//		}
+//
+//		void say() {
+//			System.out.println(says);
+//		}
+//	}
+//
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//		System.out.println("Operators / Ex_5");
+//		Dog dog_1 = new Dog();
+//		dog_1.setName("Spot");
+//		dog_1.setSays("Ruff!");
+//		Dog dog_2 = new Dog();
+//		dog_2.setName("Scruffy");
+//		dog_2.setSays("Wurf!");
+//		dog_1.showName();
+//		dog_1.say();
+//		dog_2.showName();
+//		dog_2.say();
+//	}
+//
+//}

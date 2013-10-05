@@ -1,0 +1,17 @@
+# ignore folders
+.settings/
+bin/
+eckel/
+resources/
+# ingnore files
+*.classpath
+*.project
+*.html
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

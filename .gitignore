@@ -1,0 +1,9 @@
+# ignore folders
+.settings/
+bin/
+eckel/
+resources/
+# ingnore files
+*.classpath
+*.project
+*.html

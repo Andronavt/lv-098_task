@@ -7,3 +7,11 @@ resources/
 *.classpath
 *.project
 *.html
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

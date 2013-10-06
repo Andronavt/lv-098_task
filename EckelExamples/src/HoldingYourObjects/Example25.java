@@ -38,9 +38,19 @@ public class Example25 {
 				myMap.put(current, myMap.get(current));
 			}
 		}
-		
+
 		System.out.println(myMap);
 
+		Map<Integer, String> recreation = new TreeMap<Integer, String>();
+		Iterator<Map.Entry<String, ArrayList<Integer>>> it2 = myMap.entrySet()
+				.iterator();
+		while (it2.hasNext()) {
+			Map.Entry<String, ArrayList<Integer>> me = it2.next();
+			for (int i = 0; i < me.getValue().size(); i++)
+				recreation.put(me.getValue().get(i), me.getKey());
+		}
+
+		System.out.println(recreation);
 	}
 
 }

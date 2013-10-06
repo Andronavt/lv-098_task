@@ -64,6 +64,14 @@ class ReferenseCounting {
 	    c.dispose();
 	}
     }
+    
+    @Override
+    protected void finalize() throws Throwable {
+        super.finalize();
+        System.out.println("finalize()");
+    }
+    
+    
 }
 
 public class Exercise13 extends ReferenseCounting {

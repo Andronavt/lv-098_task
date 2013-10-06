@@ -3,8 +3,10 @@
  */
 package com.softserveinc.edu.lms.polymorphism;
 
-/**
+/*
  * @author Maryan
+ * Add a RectangularGlyph to PolyConstructors.java and demonstrate the problem
+ * described in this section
  *
  */
 

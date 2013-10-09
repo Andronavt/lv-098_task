@@ -1,0 +1,82 @@
+package test.parser;
+
+import java.io.IOException;
+import java.io.Reader;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import test.IpFactory;
+import test.ip.IP;
+
+public class Parser1 extends Parser {
+	public Parser1() {
+	}
+
+	// public Parser1(Reader r) {
+	// // super();
+	// try {
+	// int b = 0;
+	// boolean flag = false;
+	// StringBuilder buffer = new StringBuilder(20);
+	// while ((b = r.read()) != -1) {
+	// if ((char) b == '\r') {
+	// buffer = new StringBuilder(20);
+	// flag = false;
+	// } else if ((char) b != '\n' && !flag) {
+	// if ((char) b == '/' || (char) b == ' ') {
+	// System.out.println(buffer.toString());
+	// IP ip = IpFactory.getIP(buffer.toString());
+	// this.addToList(ip);
+	// flag = true;
+	// } else {
+	// buffer.append((char) b);
+	// }
+	// }
+	// }
+	// r.close();
+	// } catch (IOException e) {
+	// e.printStackTrace();
+	// } finally {
+	// try {
+	// r.close();
+	// } catch (IOException e) {
+	// e.printStackTrace();
+	// }
+	// }
+	// }
+
+	public Parser1(Reader r) {
+		// super();
+		try {
+			Pattern pattern = Pattern.compile("^([0-9a-fA-F]+[:.]?)+");
+			char ch = 0;
+			StringBuilder buffer = new StringBuilder(50);
+			while (true) {
+				ch = (char) r.read();
+				if ((int) ch != -1) {
+					break;
+				} else if (ch == '\r') {
+					Matcher matcher = pattern.matcher(buffer);
+					System.out.println(matcher.group());
+					IP ip = IpFactory.getIP(matcher.group());
+					this.addToList(ip);
+				} else if (ch == '\n') {
+					buffer = new StringBuilder(50);
+				} else {
+					System.out.println(ch);
+					buffer.append(ch);
+				}
+
+			}
+			r.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				r.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+}

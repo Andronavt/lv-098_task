@@ -1,0 +1,17 @@
+package test;
+
+import test.parser.Parser;
+
+public class Test {
+	public static void main(String[] args) {
+
+		Parser p = ParserFactory
+				.getParser("C:\\Users\\orecto\\Desktop\\res1.txt");
+
+		System.out.println(p.getListIPv4().size());
+		System.out.println();
+
+		System.out.println(p.getListIPv6().size());
+		System.out.println();
+	}
+}

@@ -1,0 +1,43 @@
+package test;
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+
+import test.parser.Parser;
+import test.parser.Parser1;
+import test.parser.Parser2;
+import test.parser.Parser3;
+import test.CONSTANTS;
+public class ParserFactory {
+	public static Parser getParser(String sourceName) {
+		if (sourceName == null) {
+			System.err.println("NULL");
+			return null; // may throw Exception if needed
+		} else {
+			if (sourceName.isEmpty())
+				return null; // may throw Exception if needed
+			else {
+				File f = new File(sourceName);
+				Reader r;
+				try {
+					r = new FileReader(f);
+					if (f.getName().equals(CONSTANTS.RES1))
+						return new Parser1(r);
+					else if (f.getName().equals(CONSTANTS.RES2))
+						return new Parser2(r);
+					else if (f.getName().equals(CONSTANTS.RES3))
+						return new Parser3(r);
+					else {
+						// may throw Exception if needed
+						System.err.println("No such link");
+					}
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+				return null; // may throw Exception if needed
+			}
+		}
+	}
+}

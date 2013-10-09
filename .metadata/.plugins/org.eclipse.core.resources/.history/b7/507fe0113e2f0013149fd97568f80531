@@ -1,0 +1,75 @@
+/**
+ * 
+ */
+package strings;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import staticPack.TextFile;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Modify JGrep.java to accept flags as arguments (e.g.,
+ * Pattern.CASE_INSENSITIVE, Pattern.MULTILINE)
+ */
+public class Exercise15 {
+	public static void main(String[] args) throws Exception {
+		if (args.length < 3) {
+			System.out.println("Usage: java JGrep file regex flag");
+			System.exit(0);
+		}
+		System.out.println(args[2]);
+		int flag = 0;
+//		System.out.println(Pattern.CASE_INSENSITIVE);
+//		System.out.println(Pattern.CANON_EQ);
+//		System.out.println(Pattern.COMMENTS);
+//		System.out.println(Pattern.DOTALL);
+//		System.out.println(Pattern.LITERAL);
+//		System.out.println(Pattern.MULTILINE);
+//		System.out.println(Pattern.UNICODE_CASE);
+//		System.out.println(Pattern.UNIX_LINES);
+
+		switch (Integer.parseInt(args[2])) {
+		case 1:
+			flag = Pattern.UNIX_LINES;
+			break;
+		case 2:
+			flag = Pattern.CASE_INSENSITIVE;
+			break;
+		case 4:
+			flag = Pattern.COMMENTS;
+			break;
+		case 8:
+			flag = Pattern.MULTILINE;
+			break;
+		case 16:
+			flag = Pattern.LITERAL;
+			break;
+		case 32:
+			flag = Pattern.DOTALL;
+			break;
+		case 64:
+			flag = Pattern.UNICODE_CASE;
+			break;
+		case 128:
+			flag = Pattern.CANON_EQ;
+			break;
+		default:
+			System.err.println("No such case...");
+		}
+		Pattern p = Pattern.compile(args[1], flag);
+		// Iterate through the lines of the input file:
+		int index = 0;
+		Matcher m = p.matcher(""); // creates empty Matcher object
+		for (String line : new TextFile(args[0])) {
+			m.reset(line);
+			while (m.find())
+				System.out.println(index++ + ": " + m.group() + ": "
+						+ m.start());
+		}
+	}
+}

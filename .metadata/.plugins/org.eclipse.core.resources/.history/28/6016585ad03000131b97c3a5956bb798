@@ -1,0 +1,44 @@
+package test;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+
+import test.ip.IP;
+import test.ip.IPv4;
+import test.ip.IPv6;
+import test.parser.Parser;
+import test.parser.Parser1;
+import test.parser.Parser2;
+import test.parser.Parser3;
+
+public class Test {
+	public static void main(String[] args) {
+		IP ip = IpFactory.getIP("217.173:251.141");
+		IP ipv4 = IpFactory.getIP("217.173.251.141");
+		IP ipv6 = IpFactory.getIP("217:173:251:141");
+
+		System.out.println(IpFactory.getIP("217.173.251.141"));
+		System.out.println(IpFactory.getIP("217:173:251:141"));
+		System.out.println(IpFactory.getIP("217.173:251.141"));
+		System.out.println();
+
+		System.out.println(ip);
+		System.out.println(ipv4);
+		System.out.println(ipv6);
+//		FileReader fr = null;
+//		try {
+//			fr = new FileReader(new File("C:\\Users\\orecto\\Desktop\\res.txt"));
+//		} catch (FileNotFoundException e) {
+//			e.printStackTrace();
+//		}
+//		Parser p1 = new Parser1(fr);
+		// Parser p2 = new Parser2();
+		// Parser p3 = new Parser3();
+
+		Parser p = ParserFactory
+				.getParser("C:\\Users\\orecto\\Desktop\\res1.txt");
+		System.out.println(p.getListIPv4().size());
+		System.out.println(p.getListIPv6().size());
+	}
+}

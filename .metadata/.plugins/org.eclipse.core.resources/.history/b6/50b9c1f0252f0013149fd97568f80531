@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package strings;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Modify Groups.java to count all of the unique words that do not start with a
+ * capital letter
+ */
+public class Exercise12 {
+	public static void main(String[] args) {
+
+	}
+
+}

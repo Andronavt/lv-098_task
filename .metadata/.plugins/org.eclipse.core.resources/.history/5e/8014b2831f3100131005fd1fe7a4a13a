@@ -1,0 +1,38 @@
+package test;
+
+import java.util.Date;
+
+import test.parser.Parser;
+
+public class Test {
+	public static void main(String[] args) {
+		Date start = null;
+		Date end = null;
+		long count = 0;
+		String path = "";
+		for (int i = 1; i < 4; i++) {
+			path = "C:\\Users\\orecto\\Desktop\\res" + i + ".txt";
+			start = new Date();
+			Parser p = ParserFactory.getParser(path);
+			end = new Date();
+			System.out.println(path);
+			System.out.println("IPv4: " + p.getListIPv4().size());
+			System.out.println("IPv6: " + p.getListIPv6().size());
+			if (p.getListIPv4().size() > 0) {
+				System.out.println("IPv4[start]: " + p.getListIPv4().get(0));
+				System.out.println("IPv4[end]: "
+						+ p.getListIPv4().get(p.getListIPv4().size() - 1));
+			}
+			if (p.getListIPv6().size() > 0) {
+				System.out.println("IPv6[start]: " + p.getListIPv6().get(0));
+				System.out.println("IPv6[end]: "
+						+ p.getListIPv6().get(p.getListIPv6().size() - 1));
+			}
+			System.out.println("duration BufferedReader(FileReader)"
+					+ (end.getTime() - start.getTime()) + " ms\n");
+			count += end.getTime() - start.getTime();
+		}
+		System.out.println("Total time: " + count + " ms.");
+
+	}
+}

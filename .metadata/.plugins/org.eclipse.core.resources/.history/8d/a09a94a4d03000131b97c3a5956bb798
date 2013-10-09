@@ -1,0 +1,14 @@
+package test.ip;
+
+public class IPv6 extends IP {
+	public IPv6() {
+	}
+
+	public IPv6(String source) {
+		super(source);
+	}
+
+	public String toString() {
+		return "IPv6 " + this.getIp();
+	}
+}

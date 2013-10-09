@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/orecto/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.1.Final/jboss-interceptors-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/orecto/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.1.Final/jboss-annotations-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/orecto/.m2/repository/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar"/>
+  <path value="C:/Users/orecto/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/Users/orecto/.m2/repository/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.1.Final/jboss-servlet-api_3.0_spec-1.0.1.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+  </core>
+  <el>
+   <linked-el length="24" name="%2" offset="5611" path="%3"/>
+   <linked-el length="24" name="%2" offset="5552" path="%3"/>
+   <linked-el length="24" name="%4" offset="5611" path="%3"/>
+   <linked-el length="24" name="%5" offset="5611" path="%3"/>
+   <linked-el length="24" name="%5" offset="5552" path="%3"/>
+   <linked-el length="26" name="%6" offset="5461" path="%3"/>
+   <linked-el length="21" name="%7" offset="4700" path="%3"/>
+   <linked-el length="44" name="%8" offset="5173" path="%3"/>
+   <linked-el length="26" name="%9" offset="5461" path="%3"/>
+   <linked-el length="42" name="%10" offset="3313" path="%3"/>
+   <linked-el length="21" name="%11" offset="4700" path="%3"/>
+   <linked-el length="26" name="%11" offset="5461" path="%3"/>
+   <linked-el length="42" name="%11" offset="3313" path="%3"/>
+   <linked-el length="44" name="%11" offset="5173" path="%3"/>
+   <linked-el length="24" name="%12" offset="5552" path="%3"/>
+   <linked-el length="21" name="%13" offset="4700" path="%3"/>
+   <linked-el length="44" name="%14" offset="5173" path="%3"/>
+   <linked-el length="42" name="%15" offset="3313" path="%3"/>
+   <linked-el length="42" name="%16" offset="3313" path="%3"/>
+   <linked-el length="44" name="%16" offset="5173" path="%3"/>
+   <linked-el length="42" name="%17" offset="3313" path="%3"/>
+   <linked-el length="44" name="%17" offset="5173" path="%3"/>
+   <linked-el length="44" name="%18" offset="5173" path="%3"/>
+   <linked-el length="42" name="%19" offset="3313" path="%3"/>
+   <linked-el length="44" name="%20" offset="5173" path="%3"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="maven" value="%2"/>
+  <alias path="maven.compiler.target" value="%4"/>
+  <alias path="maven.compiler" value="%5"/>
+  <alias path="version.compiler.plugin" value="%6"/>
+  <alias path="version.war.plugin" value="%7"/>
+  <alias path="version.org.jboss.as.plugins.maven" value="%8"/>
+  <alias path="version.compiler" value="%9"/>
+  <alias path="version.org.jboss.spec.jboss" value="%10"/>
+  <alias path="version" value="%11"/>
+  <alias path="maven.compiler.source" value="%12"/>
+  <alias path="version.war" value="%13"/>
+  <alias path="version.org.jboss.as.plugins" value="%14"/>
+  <alias
+   path="/jboss-as-helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloService.java" value="%0"/>
+  <alias path="version.org" value="%17"/>
+  <alias path="version.org.jboss" value="%16"/>
+  <alias path="version.org.jboss.spec" value="%15"/>
+  <alias path="version.org.jboss.as" value="%18"/>
+  <alias path="/jboss-as-helloworld/pom.xml" value="%3"/>
+  <alias path="version.org.jboss.spec.jboss.javaee" value="%19"/>
+  <alias path="version.org.jboss.as.plugins.maven.plugin" value="%20"/>
+  <alias
+   path="\jboss-as-helloworld\src\main\java\org\jboss\as\quickstarts\helloworld\HelloWorldServlet.java" value="%1"/>
+  <alias path="%0" value="/jboss-as-helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloService.java"/>
+  <alias path="%4" value="maven.compiler.target"/>
+  <alias path="%3" value="/jboss-as-helloworld/pom.xml"/>
+  <alias path="%2" value="maven"/>
+  <alias path="%1" value="\jboss-as-helloworld\src\main\java\org\jboss\as\quickstarts\helloworld\HelloWorldServlet.java"/>
+  <alias path="%17" value="version.org"/>
+  <alias path="%7" value="version.war.plugin"/>
+  <alias path="%16" value="version.org.jboss"/>
+  <alias path="%8" value="version.org.jboss.as.plugins.maven"/>
+  <alias path="%15" value="version.org.jboss.spec"/>
+  <alias path="%5" value="maven.compiler"/>
+  <alias path="%6" value="version.compiler.plugin"/>
+  <alias path="%14" value="version.org.jboss.as.plugins"/>
+  <alias path="%19" value="version.org.jboss.spec.jboss.javaee"/>
+  <alias path="%9" value="version.compiler"/>
+  <alias path="%18" value="version.org.jboss.as"/>
+  <alias path="%20" value="version.org.jboss.as.plugins.maven.plugin"/>
+  <alias path="%13" value="version.war"/>
+  <alias path="%12" value="maven.compiler.source"/>
+  <alias path="%11" value="version"/>
+  <alias path="%10" value="version.org.jboss.spec.jboss"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+package strings;
+
+import static staticPack.StaticPrint.*;
+import java.util.Arrays;
+import java.util.regex.Pattern;
+
+/**
+ * @author orecto
+ * 
+ */
+/* Rewrite SplitDemo using String.split( ) */
+public class Exercise14 {
+	public static void main(String[] args) {
+		String input = "This!!unusual use!!of exclamation!!points";
+		String[] arrStr1 = input.split(input);
+		print(arrStr1.toString());
+		// Only do the first three:
+		String[] arrStr2 = input.split(input, 3);
+		print(arrStr2);
+	}
+}

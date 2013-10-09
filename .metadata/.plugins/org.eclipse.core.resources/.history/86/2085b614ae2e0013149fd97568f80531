@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package holdingYourObjects;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Take the resulting Map from the previous exercise and re-create the order of
+ * the words as they appeared in the original file
+ */
+public class Exercise26 {
+	public static void main(String[] args) {
+		System.out.println("sdasd");
+		System.out.println("sdasd");
+		System.out.println("sdasd");
+	}
+
+}

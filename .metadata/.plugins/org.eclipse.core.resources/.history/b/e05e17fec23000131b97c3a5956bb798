@@ -1,0 +1,26 @@
+package test;
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class Test2 {
+	public static void main(String[] args) {
+		FileReader fr = null;
+		int count = 0;
+		try {
+			fr = new FileReader(new File("C:\\Users\\orecto\\Desktop\\res.txt"));
+			int b = 0;
+			while ((b = fr.read()) != -1) {
+				while ((char)b != '\n') {
+					System.out.print((char) b);
+					count++;
+				}
+				System.out.println();
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println("count " + count);
+	}
+}

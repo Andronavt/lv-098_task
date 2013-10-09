@@ -1,0 +1,45 @@
+package test;
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.util.Scanner;
+
+import test.parser.Parser;
+import test.parser.Parser1;
+import test.parser.Parser2;
+import test.parser.Parser3;
+import test.CONSTANTS;
+
+public class ParserFactory {
+	public static Parser getParser(String sourceName) {
+		if (sourceName == null) {
+			throw new RuntimeException("getParser() get null as parameter");
+		} else {
+			if (sourceName.isEmpty())
+				throw new RuntimeException("getParser() get empty parameter");
+			else {
+				File f = new File(sourceName);
+				Reader r;
+				try {
+					//r = new FileReader(f);
+					Scanner r = new Scanner(f);
+					if (f.getName().equals(CONSTANTS.RES1))
+						return new Parser1(r);
+					else if (f.getName().equals(CONSTANTS.RES2))
+						return new Parser2(r);
+					else if (f.getName().equals(CONSTANTS.RES3))
+						return new Parser3(r);
+					else {
+						throw new RuntimeException(
+								"getParser() get parameter with unknown format");
+					}
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+				return null; // may throw Exception if needed
+			}
+		}
+	}
+}

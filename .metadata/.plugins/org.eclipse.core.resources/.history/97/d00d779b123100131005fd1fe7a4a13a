@@ -1,0 +1,23 @@
+package test;
+
+import java.util.Date;
+
+import test.parser.Parser;
+
+public class Test {
+	public static void main(String[] args) {
+		Date start = null;
+		Date end = null;
+
+		start = new Date();
+		Parser p = ParserFactory
+				.getParser("C:\\Users\\orecto\\Desktop\\res.txt");
+		end = new Date();
+
+		System.out.println("IPv4: " + p.getListIPv4().size());
+		System.out.println("IPv6: " + p.getListIPv6().size());
+		System.out.println("duration BufferedReader(FileReader)"
+				+ (end.getTime() - start.getTime()) + " ms\n");
+		
+	}
+}

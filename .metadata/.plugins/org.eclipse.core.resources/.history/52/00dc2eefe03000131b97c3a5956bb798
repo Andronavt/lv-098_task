@@ -1,0 +1,63 @@
+package test.parser;
+
+import java.io.IOException;
+import java.io.Reader;
+import java.lang.ProcessBuilder.Redirect;
+
+import test.IpFactory;
+import test.ip.IP;
+
+public class Parser1 extends Parser {
+	public Parser1() {
+	}
+
+	public Parser1(Reader r) {
+		// super();
+		// Pattern pattern = Pattern.compile("^([0-9a-fA-F]+[:.]?)+");
+		char ch = 0;
+		int count = 0;
+		boolean readed = false;
+		boolean endOfLine = true;
+		StringBuilder buffer = new StringBuilder(50);
+		try {
+			while (true) {
+				ch = (char) r.read();
+				if (((int) ch) == -1) {
+					break;
+				} else if ((ch == '/' || ch == ' ') && !readed) {
+					System.out.println();
+					System.out.println(buffer);
+					IP ip = IpFactory.getIP(buffer.toString());
+					this.addToList(ip);
+					readed = true;
+				} else if (ch == '\n') {
+					buffer = new StringBuilder(50);
+					endOfLine = true;
+				} else if (ch != ' ' && endOfLine) {
+					System.out.print(ch);
+					buffer.append(ch);
+					readed = false;
+					endOfLine = false;
+				} else if (!endOfLine && !readed) {
+					System.out.print(ch);
+					buffer.append(ch);
+					readed = false;
+					count = 0;
+				} else if(endOfLine && count < 5){
+					count++;
+				} else if(count >= 5){
+					break;
+				}
+			}
+			r.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				r.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+}

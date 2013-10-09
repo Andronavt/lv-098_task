@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package strings;
+
+import java.util.Arrays;
+
+/**
+ * @author orecto
+ * 
+ */
+/* Split the string Splitting.knights on the words "the" or “you." */
+class Splitting {
+	public static String knights = "Then, when you have found the shrubbery, you must "
+			+ "cut down the mightiest tree in the forest... "
+			+ "with... a herring!";
+
+	public static void split(String regex) {
+		System.out.println(Arrays.toString(knights.split(regex)));
+	}
+}
+
+public class Exercise8 {
+	public static void main(String[] args) {
+		Splitting.split("[the]|you");
+	}
+}

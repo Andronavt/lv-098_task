@@ -1,0 +1,42 @@
+package test;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.util.Date;
+import java.util.Scanner;
+
+import test.parser.Parser1;
+
+public class Test2 {
+	public static void main(String[] args) {
+		Date start;
+		Date end;
+		Scanner scanner = new Scanner("C:\\Users\\orecto\\Desktop\\res1.txt");
+		start = new Date();
+		Parser1 p1 = new Parser1(scanner);
+		end = new Date();
+		System.out.println("duration " + (end.getTime() - start.getTime())
+				+ " ms");
+		scanner.close();
+		
+		Reader reader = null;
+		try {
+			reader = new FileReader("C:\\Users\\orecto\\Desktop\\res1.txt");
+			start = new Date();
+			Parser1 p2 = new Parser1(reader);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		end = new Date();
+		System.out.println("duration " + (end.getTime() - start.getTime())
+				+ " ms");
+		try {
+			reader.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

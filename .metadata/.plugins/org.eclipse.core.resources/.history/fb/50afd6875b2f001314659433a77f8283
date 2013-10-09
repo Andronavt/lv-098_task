@@ -1,0 +1,11 @@
+package test;
+
+/* У стрічці str отримати початкову стрічку str де всі входження
+ * символа [\] замінені на символ [_]*/
+public class Test {
+	public static void main(String[] args) {
+		String str = "OrestO\\orest\\OrestO";
+		str = str.replace('\\', '_');
+		System.out.println(str);
+	}
+}

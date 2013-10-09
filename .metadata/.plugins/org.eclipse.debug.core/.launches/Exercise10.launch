@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Ekkel/src/strings/Exercise10.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="strings.Exercise10"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="&quot;Java now has regular expressions&quot; &quot;^Java&quot; &quot;\Berg.*&quot; &quot;n.w\s+h(a|i)s&quot; &quot;s?&quot; &quot;s+&quot; &quot;s{4}&quot; &quot;s{1}.&quot; &quot;s{0,3}&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Ekkel"/>
+</launchConfiguration>

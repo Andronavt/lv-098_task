@@ -1,0 +1,28 @@
+package test.ip;
+
+public class IP {
+	private String Ip;
+
+	public IP() {
+
+	}
+
+	public IP(String ip) {
+		Ip = ip;
+	}
+
+	/**
+	 * @return the ip
+	 */
+	public String getIp() {
+		return Ip;
+	}
+
+	/**
+	 * @param ip
+	 *            the ip to set
+	 */
+	public void setIp(String ip) {
+		Ip = ip;
+	}
+}

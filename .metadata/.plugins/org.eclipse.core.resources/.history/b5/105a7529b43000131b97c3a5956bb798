@@ -1,0 +1,16 @@
+package test;
+
+import test.ip.*;
+
+public class IpFactory {
+	public static IP getIP(String str) {
+		if (str.contains(".:"))
+			return null;
+		else if (str.contains("."))
+			return new IPv4(str);
+		else if (str.contains(":"))
+			return new IPv6(str);
+		else
+			return null;
+	}
+}

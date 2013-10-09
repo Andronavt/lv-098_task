@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package strings;
+
+import static staticPack.StaticPrint.print;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Apply the regular expression (?i)((^[aeiou])|(\s+[aeiou]))\w+?[aeiou]\b to
+ * "Arline ate eight apples and one orange while Anita hadn’t any"
+ */
+public class Exercise11 {
+	public static void main(String[] args) {
+		String str = "Arline ate eight apples and one orange while Anita hadn’t any";
+		String patternStr = "(?i)((^[aeiou])|(\\s+[aeiou]))\\w+?[aeiou]\\b";
+		print("Input: \"" + str + "\"");
+		print("Regular expression: \"" + patternStr + "\"");
+		Pattern pattern = Pattern.compile(patternStr);
+		Matcher matcher = pattern.matcher(args[0]);
+		while (matcher.find()) {
+			print("Match \"" + matcher.group() + "\" at positions "
+					+ matcher.start() + "-" + (matcher.end() - 1));
+		}
+		print("\n");
+	}
+}

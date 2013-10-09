@@ -1,0 +1,26 @@
+package test;
+
+import test.ip.*;
+
+public class Test {
+	public static void main(String[] args) {
+		IP ip1 = new IP();
+		IP ip2 = new IP("217.173.251.141");
+		IPv4 ipv41 = new IPv4();
+		IPv4 ipv42 = new IPv4("217.173.251.142");
+		IPv6 ipv61 = new IPv6();
+		IPv6 ipv62 = new IPv6("217.173.251.143");
+		
+		
+		System.out.println("IP " + ip1.getIp());
+		System.out.println("IP " + ip2.getIp());
+		System.out.println("IPv4 " + ipv41.getIp());
+		System.out.println("IPv4 " + ipv42.getIp());
+		System.out.println("IPv6 " + ipv61.getIp());
+		System.out.println("IPv6 " + ipv62.getIp());
+		
+		System.out.println(IpFactory.getIP("217.173.251.141"));
+		System.out.println(IpFactory.getIP("217:173:251:141"));
+		System.out.println(IpFactory.getIP("217.173:251.141"));
+	}
+}

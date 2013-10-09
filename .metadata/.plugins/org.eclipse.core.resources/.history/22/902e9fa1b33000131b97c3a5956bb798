@@ -1,0 +1,9 @@
+package test.ip;
+
+public class IPv6 extends IP{
+	public IPv6() {
+	}
+	public IPv6(String source) {
+		super(source);
+	}
+}

@@ -1,0 +1,12 @@
+package test;
+
+/*Вивести довжину стрічки з задачі 7*/
+public class Test {
+	public static void main(String[] args) {
+		StringBuilder sb = new StringBuilder();
+		int i = 0;
+		while (i < args.length)
+			sb.append(args[i++]);
+		System.out.println(sb.length());
+	}
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="deleteOnExit"/>
+	<item value="C:\Users\orecto" key="defaultDialogPath"/>
+	<item value="C:\Users\orecto\AppData\Local\Temp\" key="defaultDestinationPath"/>
+	<section name="downloadRuntimeSection">
+		<item value="true" key="gatein360runtime"/>
+	</section>
+</section>

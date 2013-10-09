@@ -1,0 +1,32 @@
+package test;
+
+import test.ip.IP;
+import test.ip.IPv4;
+import test.ip.IPv6;
+
+public class Test2 {
+	public static void main(String[] args) {
+		StringBuilder sb = new StringBuilder();
+		sb.append("Hohoho");
+		for (int i = 0; i < 10; i++) {
+			sb.append(i);
+		}
+		System.out.println(sb.toString());
+	}
+
+	static void meth(IP ip) {
+		if (ip == null)
+			System.out.println("NULL ;(");
+		else {
+			System.out.println(ip.toString());
+			System.out.println(ip.getClass());
+			if (ip.getClass().getName().equals("test.ip.IPv4")) {
+				System.out.println("IPv4");
+			} else if (ip.getClass().getName().equals("test.ip.IPv6")) {
+				System.out.println("IPv6");
+			} else {
+				System.out.println("ELSE ;(");
+			}
+		}
+	}
+}

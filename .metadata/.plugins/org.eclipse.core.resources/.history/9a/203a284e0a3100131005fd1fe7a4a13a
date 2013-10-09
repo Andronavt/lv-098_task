@@ -1,0 +1,114 @@
+package test.parser;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import test.IpFactory;
+import test.ip.IP;
+
+public class Parser2 extends Parser {
+	public Parser2() {
+	}
+
+	public Parser2(FileReader r) {
+		// super();
+		char ch = 0;
+		int count = 0;
+		boolean readed = false;
+		boolean endOfLine = true;
+		StringBuilder buffer = new StringBuilder(20);
+		try {
+			while (true) {
+				ch = (char) r.read();
+				if (((int) ch) == -1) {
+					break;
+				}else if(ch == '#'){
+					endOfLine = false;	
+				}else if(endOfLine){
+					buffer.append(ch);
+				} else if (ch == '\r') {
+					IP ip = IpFactory.getIP(buffer.toString());
+					this.addToList(ip);
+					readed = true;
+					endOfLine = true;
+					buffer = new StringBuilder(20);
+				}
+			}
+			r.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				r.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
+	public Parser2(BufferedReader r) {
+		// super();
+		char ch = 0;
+		int count = 0;
+		boolean readed = false;
+		boolean endOfLine = true;
+		StringBuilder buffer = new StringBuilder(20);
+		try {
+			while (true) {
+				ch = (char) r.read();
+				if (((int) ch) == -1) {
+					break;
+				} else if ((ch == '/' || ch == ' ') && !readed) {
+					IP ip = IpFactory.getIP(buffer.toString());
+					this.addToList(ip);
+					readed = true;
+				} else if (ch == '\n') {
+					buffer = new StringBuilder(20);
+					endOfLine = true;
+				} else if (ch != ' ' && endOfLine) {
+					buffer.append(ch);
+					readed = false;
+					endOfLine = false;
+					count = 0;
+				} else if (!endOfLine && !readed) {
+					buffer.append(ch);
+					readed = false;
+				} else if (endOfLine && count < 8) {
+					count++;
+				} else if (count >= 8) {
+					break;
+				}
+			}
+			r.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				r.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
+	public Parser2(Scanner s) {
+		// super();
+		Pattern pattern = Pattern
+				.compile("^[ ]*(([0-9a-fA-F]+[.:]){1,8})[0-9a-fA-F]+");
+		while (s.hasNext()) {
+			StringBuilder buffer = new StringBuilder(20);
+			Matcher matcher = pattern.matcher(s.nextLine());
+			if (matcher.find()) {
+				buffer.append(matcher.group());
+				addToList(IpFactory.getIP(buffer.toString()));
+			}
+
+		}
+		s.close();
+	}
+}

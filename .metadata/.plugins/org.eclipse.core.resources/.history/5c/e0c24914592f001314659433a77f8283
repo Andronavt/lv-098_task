@@ -1,0 +1,9 @@
+package test;
+
+/*¬каж≥ть результат команди: "123456789012".substring(5,7)*/
+public class Test {
+	public static void main(String[] args) {
+		"123456789012".substring(5,7);
+		//System.out.println(sb.length());
+	}
+}

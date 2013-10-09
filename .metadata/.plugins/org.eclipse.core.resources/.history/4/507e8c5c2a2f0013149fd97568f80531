@@ -1,0 +1,41 @@
+/**
+ * 
+ */
+package strings;
+
+import java.util.Set;
+import java.util.TreeSet;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Modify Groups.java to count all of the unique words that do not start with a
+ * capital letter
+ */
+public class Exercise12 {
+	static public final String POEM = "Twas brillig, and the slithy toves\n" // 6 - 5
+			+ "Did gyre and gimble in the wabe.\n" // 7 - 6
+			+ "All mimsy were the borogoves,\n" // 5 - 4
+			+ "And the mome raths outgrabe.\n\n" // 5 - 4
+			+ "Beware the Jabberwock, my son,\n" // 5 - 3
+			+ "The jaws that bite, the claws that catch.\n" // 8 - 7
+			+ "Beware the Jubjub bird, and shun\n" // 6 - 4
+			+ "The frumious Bandersnatch."; // 3 - 1
+			//45 - 34
+	public static void main(String[] args) {
+		//String str = "(^[a-z]|\\s+[a-z])\\w+";
+		String str = "([a-z]+)";
+		Pattern pattern = Pattern.compile(str);
+		Matcher matcher = pattern.matcher(POEM);
+		Set<String> words = new TreeSet<String>();
+		while(matcher.find()) {
+			words.add(matcher.group());
+		}
+		System.out.println("Number of unique non-cap words = " + words.size());
+		System.out.println(words);
+	}
+}

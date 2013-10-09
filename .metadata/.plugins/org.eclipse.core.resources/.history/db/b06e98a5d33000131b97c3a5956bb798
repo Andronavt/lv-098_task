@@ -1,0 +1,46 @@
+package test.parser;
+
+import java.io.IOException;
+import java.io.Reader;
+
+import test.IpFactory;
+import test.ip.IP;
+
+public class Parser1 extends Parser {
+	public Parser1() {
+	}
+
+	public Parser1(Reader r) {
+		// super();
+		try {
+			int b = 0;
+			boolean flag = false;
+			StringBuilder buffer = new StringBuilder(20);
+			while ((b = r.read()) != -1) {
+				if ((char) b == '\r') {
+					buffer = new StringBuilder(20);
+					flag = false;
+				}
+				if ((char) b != '\n' && !flag) {
+					if ((char) b == '/' || (char) b == ' ') {
+//						System.out.println(buffer.toString());
+						IP ip = IpFactory.getIP(buffer.toString());
+						this.addToList(ip);
+						flag = true;
+					} else {
+						buffer.append((char) b);
+					}
+				}
+			}
+			r.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				r.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+}

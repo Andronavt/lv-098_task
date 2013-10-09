@@ -1,0 +1,60 @@
+/**
+ * 
+ */
+package holdingYourObjects;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+
+import staticPack.TextFile;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Take the resulting Map from the previous exercise and re-create the order of
+ * the words as they appeared in the original file
+ */
+public class Exercise26 {
+	public static void main(String[] args) {
+		Map<String, ArrayList<Integer>> map = new TreeMap<String, ArrayList<Integer>>();
+		List<String> listOfWords = new ArrayList<String>(new TextFile(
+				"Superpuper.txt", "\\W+"));
+		System.out.println("We read next words: " + listOfWords);
+		Iterator<String> it = listOfWords.iterator();
+		int count = 0;
+
+		while (it.hasNext()) {
+			String s = it.next();
+			count++;
+			if (!map.keySet().contains(s)) {
+				ArrayList<Integer> list = new ArrayList<Integer>();
+				list.add(count);
+				map.put(s, list);
+			} else
+				map.get(s).add(count);
+		}
+		System.out.println("Location of words in the file: " + map);
+		// New Map to hold sorted words, keyed by location:
+		Map<Integer, String> replay = new TreeMap<Integer, String>();
+		Iterator<Map.Entry<String, ArrayList<Integer>>> it1 = map.entrySet()
+				.iterator();
+		while (it1.hasNext()) {
+			Map.Entry<String, ArrayList<Integer>> me = it1.next();
+			for (int i = 0; i < me.getValue().size(); i++)
+				replay.put(me.getValue().get(i), me.getKey());
+		}
+		System.out.println();
+		System.out.println("TreeMap of ordered locations, words: " + replay);
+		System.out.println();
+		// Display words in order as TreeMap values():
+		System.out.println("Words in original order: " + replay.values());
+	}
+
+}

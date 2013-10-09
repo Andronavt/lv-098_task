@@ -1,0 +1,7 @@
+package test.parser;
+
+public class Parser2 extends Parser {
+	public void parse(String str) {
+
+	}
+}

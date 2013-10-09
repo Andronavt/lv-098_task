@@ -1,0 +1,58 @@
+/**
+ * 
+ */
+package strings;
+
+import static staticPack.StaticPrint.print;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Modify Groups.java to count all of the unique words that do not start with a
+ * capital letter
+ */
+public class Exercise12 {
+	static public final String POEM = "Twas brillig, and the slithy toves\n" // 6-5
+			+ "Did gyre and gimble in the wabe.\n" // 7 - 6
+			+ "All mimsy were the borogoves,\n" // 5 - 4
+			+ "And the mome raths outgrabe.\n\n" // 5 - 4
+			+ "Beware the Jabberwock, my son,\n" // 5 - 3
+			+ "The jaws that bite, the claws that catch.\n" // 8 - 7
+			+ "Beware the Jubjub bird, and shun\n" // 6 - 4
+			+ "The frumious Bandersnatch."; // 3 - 1
+
+	// 45 - 34 - 29
+	public static void main(String[] args) {
+		String patternStr = "([a-z]+)";
+		Pattern pattern = Pattern.compile(patternStr);
+		Matcher matcher = pattern.matcher(POEM);
+		Map<String, Integer> map = new TreeMap<>();
+		while (matcher.find()) {
+			String str = matcher.group();
+			Integer i = map.get(str);
+			i = i == null ? 1 : i + 1;
+			map.put(str, i);
+		}
+		List<String> unduplicateList = new ArrayList<>();
+		for (Map.Entry<String, Integer> entry : map.entrySet()) {
+			if (entry.getValue() == 1) {
+				unduplicateList.add(entry.getKey());
+			}
+		}
+		print("The number of unique words that begin with non-capital letters: "
+				+ map.keySet().size());
+		print(map.keySet());
+		print("Count of unique - unduplicated words:" + unduplicateList.size());
+		print(unduplicateList);
+		print(map);
+	}
+}

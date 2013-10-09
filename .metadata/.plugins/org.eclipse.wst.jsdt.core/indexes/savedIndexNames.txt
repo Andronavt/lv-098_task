@@ -1,0 +1,7 @@
+INDEX VERSION 1.122+D:\SoftServe_Task\lv-098_task\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+83201660.index
+1595694945.index
+3989495111.index
+606223539.index
+2460974035.index
+2073612637.index

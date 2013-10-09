@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package strings;
+
+/**
+ * @author orecto
+ *
+ */
+public enum Flags {
+	CASE_INSENSITIVE,
+	CANON_EQ,
+	COMMENTSR,
+	DOTALL,
+	LITERAL,
+	MULTILINE,
+	UNICODE_CASE,
+	UNIX_LINES
+}

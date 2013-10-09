@@ -1,0 +1,41 @@
+package test;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+
+import test.parser.Parser;
+import test.parser.Parser1;
+import test.parser.Parser2;
+import test.parser.Parser3;
+
+public class ParserFactory {
+	public static Parser getParser(String sourceName) throws IOException {
+		if (sourceName == null) {
+			return null; // may throw Exception if needed
+		} else {
+			if (sourceName.isEmpty())
+				return null; // may throw Exception if needed
+			else {
+				Reader r;
+				try {
+					r = new FileReader(new File(sourceName));
+				} catch (FileNotFoundException e) {
+					e.printStackTrace();
+				} finally{
+					r.close();
+				}
+				if (sourceName.equals("res1.txt"))
+					return new Parser1();
+				else if (sourceName.equals("res2.txt"))
+					return new Parser2();
+				else if (sourceName.equals("res3.txt"))
+					return new Parser3();
+				else
+					return null; // may throw Exception if needed
+			}
+		}
+	}
+}

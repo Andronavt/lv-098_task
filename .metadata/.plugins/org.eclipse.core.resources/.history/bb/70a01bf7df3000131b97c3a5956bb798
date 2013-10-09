@@ -1,0 +1,31 @@
+package test;
+
+import test.parser.Parser;
+
+public class Test {
+	public static void main(String[] args) {
+//		IP ip = IpFactory.getIP("217.173:251.141");
+//		IP ipv4 = IpFactory.getIP("217.173.251.141");
+//		IP ipv6 = IpFactory.getIP("217:173:251:141");
+//
+//		System.out.println(IpFactory.getIP("217.173.251.141"));
+//		System.out.println(IpFactory.getIP("217:173:251:141"));
+//		System.out.println(IpFactory.getIP("217.173:251.141"));
+//		System.out.println();
+//
+//		System.out.println(ip);
+//		System.out.println(ipv4);
+//		System.out.println(ipv6);
+
+		Parser p = ParserFactory
+				.getParser("C:\\Users\\orecto\\Desktop\\res.txt");
+
+		//System.out.println(p.getListIPv4());
+		System.out.println(p.getListIPv4().size());
+		System.out.println();
+
+		//System.out.println(p.getListIPv6());
+		System.out.println(p.getListIPv6().size());
+		System.out.println();
+	}
+}

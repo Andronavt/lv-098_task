@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package strings;
+
+import static staticPack.StaticPrint.*;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Using the documentation for java.util.regex.Pattern as a resource, write and
+ * test a regular expression that checks a sentence to see that it begins with a
+ * capital letter and ends with a period
+ */
+public class Exercise7 {
+	public static void main(String[] args) {
+		String pattern = "[a-oA-NP-Z].*[\\.]$";
+		print("oRESTO.".matches(pattern));
+		print("Orest1".matches(pattern));
+		print("Oresto".matches(pattern));
+		print("arest.".matches(pattern));
+		print("orest.".matches(pattern));
+	}
+}

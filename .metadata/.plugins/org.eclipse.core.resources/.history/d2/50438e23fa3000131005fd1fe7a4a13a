@@ -1,0 +1,13 @@
+package test.parser;
+
+import java.io.Reader;
+
+public class Parser3 extends Parser {
+	public Parser3() {
+	}
+
+	public Parser3(Reader r) {
+		// super(r);
+
+	}
+}

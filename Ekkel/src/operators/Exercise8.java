@@ -3,6 +3,8 @@
  */
 package operators;
 
+import static staticPack.StaticPrint.*;
+
 /**
  * @author orecto
  * 

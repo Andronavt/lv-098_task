@@ -1,0 +1,12 @@
+package test;
+
+/*Створити стрічку "Це є дійсне чило ____, ціле число ____, стрічка_____" на основі fl (дійсне число), 
+ * i (ціле), str (символьна стрічка) підставивши у замість ______ відповідне значення.*/
+public class Test {
+	public static void main(String[] args) {
+		float fl = 4.25f;
+		int i = 600012;
+		String str = "OrestO";
+		System.out.printf("Це є дійсне чило %4.2f, ціле число %4.4d, стрічка %.5s", fl, i, str);
+	}
+}

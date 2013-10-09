@@ -1,0 +1,62 @@
+/**
+ * 
+ */
+package strings;
+
+import static staticPack.StaticPrint.print;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Modify StartEnd.java so that it uses Groups.POEM as input, but still produces
+ * positive outputs for find( ), lookingAt( ) and matches( )
+ */
+public class Exercise13 {
+	public static String input = Exercise12.POEM;
+
+	private static class Display {
+		private boolean regexPrinted = false;
+		private String regex;
+
+		Display(String regex) {
+			this.regex = regex;
+		}
+
+		void display(String message) {
+			if (!regexPrinted) {
+				print(regex);
+				regexPrinted = true;
+			}
+			print(message);
+		}
+	}
+
+	static void examine(String str, String regex) {
+		Display displayObj = new Display(regex);
+		Pattern pattern = Pattern.compile(regex);
+		Matcher matcher = pattern.matcher(str);
+		while (matcher.find())
+			displayObj.display("find() ‘" + matcher.group() + "‘ start = "
+					+ matcher.start() + " end = " + matcher.end());
+		if (matcher.lookingAt()) // No reset() necessary
+			displayObj.display("lookingAt() start = " + matcher.start()
+					+ " end = " + matcher.end());
+		if (matcher.matches()) // No reset() necessary
+			displayObj.display("matches() start = " + matcher.start()
+					+ " end = " + matcher.end() + '\n');
+	}
+
+	public static void main(String[] args) {
+		String[] arrStr = { "(li)+", "([A-Z])+", "The.*?h." };
+		for (String in : input.split("\n")) {
+			print("input : " + in);
+			for (String regex : arrStr)
+				examine(in, regex);
+		}
+	}
+}

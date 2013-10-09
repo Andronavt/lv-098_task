@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package strings;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Create a class that contains int, long, float and double fields. Create a
+ * toString( ) method for this class that uses String.format( ), and demonstrate
+ * that your class works correctly.
+ */
+public class Exercise6 {
+	int i = 5;
+	long l = 10;
+	float f = 10.5f;
+	double d = 15.259;
+
+	public String toString() {
+		return String.format("i = %d\nl = %d\nf = %.16g\nd = %.16g\n", i, l, f,
+				d);
+	}
+
+	public static void main(String[] args) {
+		Exercise6 x = new Exercise6();
+		System.out.println(x);
+	}
+}

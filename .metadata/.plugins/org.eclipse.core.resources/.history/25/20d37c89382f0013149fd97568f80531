@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package strings;
+
+import static staticPack.StaticPrint.print;
+
+/**
+ * @author orecto
+ * 
+ */
+/* Rewrite SplitDemo using String.split( ) */
+public class Exercise14 {
+	public static void main(String[] args) {
+		String input = "This!!unusual use!!of exclamation!!points";
+		String[] arrStr1 = input.split("!!");
+		for (String s : arrStr1)
+			print(s.toString());
+		print('\n');
+		// Only do the first three:
+		String[] arrStr2 = input.split("!!", 3);
+		for (String s : arrStr2)
+			print(s);
+	}
+}

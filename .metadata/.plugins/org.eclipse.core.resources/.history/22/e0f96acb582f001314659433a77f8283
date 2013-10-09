@@ -1,0 +1,12 @@
+package test;
+
+/*StringBuilder. Побудувати стрічку із аргументів ком. стрічки (введені з консолі).*/
+public class Test {
+	public static void main(String[] args) {
+		StringBuilder sb = new StringBuilder();
+		int i = 0;
+		while(i < args.length)
+			sb.append(args[i++]);
+		System.out.println(sb);
+	}
+}

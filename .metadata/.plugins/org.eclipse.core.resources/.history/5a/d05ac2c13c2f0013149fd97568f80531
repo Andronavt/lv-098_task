@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package strings;
+
+/**
+ * @author orecto
+ *
+ */
+public enum Flags {
+
+}

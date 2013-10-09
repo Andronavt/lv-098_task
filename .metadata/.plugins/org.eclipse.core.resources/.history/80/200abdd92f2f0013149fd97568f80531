@@ -1,0 +1,72 @@
+/**
+ * 
+ */
+package strings;
+
+import static staticPack.StaticPrint.print;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * @author orecto
+ * 
+ */
+/*
+ * Modify StartEnd.java so that it uses Groups.POEM as input, but still produces
+ * positive outputs for find( ), lookingAt( ) and matches( )
+ */
+public class Exercise13 {
+	public static String input = Exercise12.POEM;
+
+	private static class Display {
+		private boolean regexPrinted = false;
+		private String regex;
+
+		Display(String regex) {
+			this.regex = regex;
+		}
+
+		void display(String message) {
+			if (!regexPrinted) {
+				print(regex);
+				regexPrinted = true;
+			}
+			print(message);
+		}
+	}
+
+	static void examine(String str, String regex) {
+		Display displayObj = new Display(regex);
+		Pattern pattern = Pattern.compile(regex);
+		Matcher matcher = pattern.matcher(str);
+		while (matcher.find())
+			displayObj.display("find() ‘" + matcher.group() + "‘ start = "
+					+ matcher.start() + " end = " + matcher.end());
+		if (matcher.lookingAt()) // No reset() necessary
+			displayObj.display("lookingAt() start = " + matcher.start()
+					+ " end = " + matcher.end());
+		if (matcher.matches()) // No reset() necessary
+			displayObj.display("matches() start = " + matcher.start()
+					+ " end = " + matcher.end() + '\n');
+	}
+
+	public static void main(String[] args) {
+//		String[] arrStr = { "\\w*ere\\w*", "\\w*ever", "T\\w+", "Never.*?!" };
+//		String[] arrStr = { "\\w*are\\w*", "A\\w*", "T\\w+", "Did.*" };
+		String[] arrStr = { "[a-zA-Z]*" };
+		for (String in : input.split("\n")) {
+			print("input : " + in);
+			for (String regex : arrStr)
+				examine(in, regex);
+		}
+	}
+	static public final String POEM = "Twas brillig, and the slithy toves\n" // 6-5
+			+ "Did gyre and gimble in the wabe.\n" // 7 - 6
+			+ "All mimsy were the borogoves,\n" // 5 - 4
+			+ "And the mome raths outgrabe.\n\n" // 5 - 4
+			+ "Beware the Jabberwock, my son,\n" // 5 - 3
+			+ "The jaws that bite, the claws that catch.\n" // 8 - 7
+			+ "Beware the Jubjub bird, and shun\n" // 6 - 4
+			+ "The frumious Bandersnatch."; // 3 - 1
+}

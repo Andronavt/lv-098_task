@@ -1,0 +1,61 @@
+package test;
+
+import test.ip.IP;
+import test.ip.IPv4;
+import test.ip.IPv6;
+
+public class Test2 {
+	public static void main(String[] args) {
+		// FileReader fr = null;
+		// int count = 0;
+		// try {
+		// fr = new FileReader(new File("C:\\Users\\orecto\\Desktop\\res.txt"));
+		// int b = 0;
+		// while ((b = fr.read()) != -1) {
+		// if (b != 13) {
+		// // System.out.print(b + " ");
+		// System.out.print((char) b);
+		// // System.out.print(" ");
+		// count++;
+		// } else {
+		// System.out.println();
+		// }
+		// }
+		// } catch (IOException e) {
+		// e.printStackTrace();
+		// }
+		// System.out.println("count " + count);
+
+		IP ip1 = new IP();
+		IP ip2 = new IP("217.173.251.141");
+		IPv4 ipv41 = new IPv4();
+		IPv4 ipv42 = new IPv4("217.173.251.142");
+		IPv6 ipv61 = new IPv6();
+		IPv6 ipv62 = new IPv6("217.173.251.143");
+
+		System.out.println(ip1.getClass());
+		System.out.println(ip2.getClass().getName().equals("test.ip.IPv6"));
+		System.out.println(ip1.getClass());
+		System.out.println(ip1.getClass());
+//		meth(ip1);
+//		meth(ip2);
+//		meth(ipv41);
+//		meth(ipv42);
+//		meth(ipv61);
+//		meth(ipv62);
+	}
+
+	static void meth(IP ip) {
+		if (ip == null)
+			System.out.println("NULL ;(");
+		else {
+			if (ip.getClass().isInstance(IPv4.class)) {
+				System.out.println("IPv4");
+			} else if (ip.getClass().isInstance(IPv6.class)) {
+				System.out.println("IPv6");
+			} else {
+				System.out.println("ELSE ;(");
+			}
+		}
+	}
+}

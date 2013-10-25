@@ -2,6 +2,7 @@
 *.html
 *.css
 *.file
+*.iml
 
 # Package Files #
 *.jar

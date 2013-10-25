@@ -12,6 +12,7 @@
 *.springBeans
 
 # Folders #
+.idea
 .settings
 /bin
 /eckel

@@ -1,0 +1,18 @@
+*.class
+*.html
+*.css
+*.file
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.classpath
+*.project
+*.springBeans
+
+# Folders #
+.settings
+/bin
+/eckel
+/resources

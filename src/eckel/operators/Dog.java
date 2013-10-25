@@ -1,7 +1,7 @@
 package eckel.operators;
 
 /*
- * Create a class called Dog containing two Strings: anme and says.In main(), create two dog objects with names 
+ * Create a class called Dog containing two strings: anme and says.In main(), create two dog objects with names
  * "spot" (who says, "Ruff!") and "scruffy" (who says, "Wurf!").Then display ther names and what they say.
  * Following Exercise 5, create a new Dog reference and assign it to spot's object. Test for comparison using
  *  == and 
